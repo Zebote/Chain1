@@ -9,3 +9,13 @@
 *italic*
 
 ***bold and italic***
+
+## **How to insert code**
+```json
+    {
+        "aggregator": {
+            "batchSize": 1000,
+            "flushTimeout": "00:00:30"
+        }
+    }
+    
